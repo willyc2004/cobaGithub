@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Greeting("Rafi Gans")
                     Greeting("Rici Gans")
+                    Greeting("Willy sss")
                 }
             }
         }
